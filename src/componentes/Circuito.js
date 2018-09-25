@@ -12,7 +12,8 @@ class Circuito extends Component {
       <Header/>
       <form className="d-flex flex-column bd-highlight mb-3">
         <div className="form-group p-2 bd-highlight">
-        <img src="http://abcdoiphone.com/wp-content/uploads/2016/10/Implement-GPS-data-for-your-Google-MAP.gif" class="img-fluid" alt="Imagem responsiva"/>
+        <img src="http://abcdoiphone.com/wp-content/uploads/2016/10/Implement-GPS-data-for-your-Google-MAP.gif"
+         className="img-fluid" alt="Imagem responsiva"/>
          
         </div>       
         <div className="form-group p-2 bd-highlight text-center">
