@@ -18,7 +18,7 @@ class Participar extends Component {
         <div className="form-group p-2 bd-highlight text-center">
               <button type="button" className="btn btn-light rounded border"><Link to="/Menu">ADD</Link></button>
               <button type="button" className="btn btn-light rounded border"><Link to="/Finalizar">OK</Link></button>
-              <button type="button" classname="btn btn-light rounded border"><Link to="/Menu">Sair</Link></button>
+              <button type="button" className="btn btn-light rounded border"><Link to="/Menu">Sair</Link></button>
         </div>
       </form>
     </div>
